@@ -1666,19 +1666,6 @@
 		<marquee>./media/marquees/My Hero (USA, Europe).png</marquee>
 		<video>./media/videos/My Hero (USA, Europe).mp4</video>
 	</game>
-	<game id="851" source="ScreenScraper.fr">
-		<path>./Gauntlet (Europe).zip</path>
-		<name>Gauntlet</name>
-		<desc>Prepare-se para mergulhar nos subterrâneos escuros e frios das masmorras, um mundo de magia e mistério, povoado pelas criaturas mais estranhas e malignas que você pode imaginar.  Fantasmas, Demônios, Feiticeiras e (acredite se quiser) a própria face da Morte estarão à sua espera. E com um único objetivo: a sua destruição! Todo o cuidado é pouco!  Mas (ainda bem) você não estará sozinho nesta jornada. Há alguns amigos, dispostos a arriscar a vida por você: Thor, o valente guerreiro; Thyra, a valquíria; Merlin, o poderoso mago, e Questor, o duende.  Cada um deles terá ensinamentos valiosos para lhe dar. Em algumas horas, o machado de Thor será a sua salvação, mas em outras, sem magia você não terá a mínima chance! Lute como nunca, e não se esqueça: nessa terra de ninguém, conseguir sobreviver é um prêmio!</desc>
-		<rating>0.75</rating>
-		<releasedate>19901101T000000</releasedate>
-		<developer>Tiertex</developer>
-		<publisher>US Gold</publisher>
-		<players>1-2</players>
-		<image>./media/images/Gauntlet (Europe).png</image>
-		<marquee>./media/marquees/Gauntlet (Europe).png</marquee>
-		<video>./media/videos/Gauntlet (Europe).mp4</video>
-	</game>
 	<game id="18491" source="ScreenScraper.fr">
 		<path>./George Foreman_s KO Boxing (Europe).zip</path>
 		<name>George Foreman's KO Boxing</name>
@@ -1769,19 +1756,6 @@
 		<image>./media/images/Ghouls_n Ghosts (USA, Europe).png</image>
 		<marquee>./media/marquees/Ghouls_n Ghosts (USA, Europe).png</marquee>
 		<video>./media/videos/Ghouls_n Ghosts (USA, Europe).mp4</video>
-	</game>
-	<game id="954" source="ScreenScraper.fr">
-		<path>./Mick _ Mack as the Global Gladiators (Europe).zip</path>
-		<name>Global Gladiators</name>
-		<desc>O quê? Você nunca foi ao McDonald's e não conhece fast-food? Não tem tempo para Big-Macs, refrigerantes, aventura e muita bagunça? Então está na hora de você mudar! De hábitos ou de planeta!!  Uma sugestão: comece pela aventura. Junte-se a Mick e Mack, dois garotos que se divertiam no McDonald's quando, de repente - VUUPT!! - foram sugados para dentro da lixeira e teletransportados para 4 mundos super poluídos! E agora?  No papel dos Global Gladiators, os super-heróis ecológicos dos quadrinhos, eles lutarão durante 12 fases contra os mais fantásticos monstros: manchas de óleo, porcos asquerosos, monstros cuspidores de amendoim mastigado, machados, britadeiras, latas-de-lixo...  Parece legal? Espere até chegar na fase de bônus! Aqui o assunto é sério - reciclagem de lixo - mas mostrado de uma forma super divertida! O que você está esperando? Empunhe seu atirador de grude e limpe a Terra de uma vez por todas! Difícil? E você achava que ia ser fácil ser um super-herói??</desc>
-		<rating>0.55</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Krisalis Software Ltd.</developer>
-		<publisher>Virgin</publisher>
-		<players>1</players>
-		<image>./media/images/Mick _ Mack as the Global Gladiators (Europe).png</image>
-		<marquee>./media/marquees/Mick _ Mack as the Global Gladiators (Europe).png</marquee>
-		<video>./media/videos/Mick _ Mack as the Global Gladiators (Europe).mp4</video>
 	</game>
 	<game id="18493" source="ScreenScraper.fr">
 		<path>./G-LOC Air Battle (Europe).zip</path>
@@ -2016,19 +1990,6 @@
 		<image>./media/images/Hang-On _ Astro Warrior (USA).png</image>
 		<marquee>./media/marquees/Hang-On _ Astro Warrior (USA).png</marquee>
 		<video>./media/videos/Hang-On _ Astro Warrior (USA).mp4</video>
-	</game>
-	<game id="925" source="ScreenScraper.fr">
-		<path>./Hang-On _ Safari Hunt (USA).zip</path>
-		<name>Hang-On &amp; Safari Hunt (pistola)</name>
-		<desc>Dois super jogos num só cartucho!  Dirija uma moto super envenenada na corrida ao redor do mundo em Hang-On!  Participe de uma espetacular e perigosa caçada na África em Safari Hunt!</desc>
-		<rating>0.7</rating>
-		<releasedate>19860901T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Hang-On _ Safari Hunt (USA).png</image>
-		<marquee>./media/marquees/Hang-On _ Safari Hunt (USA).png</marquee>
-		<video>./media/videos/Hang-On _ Safari Hunt (USA).mp4</video>
 	</game>
 	<game id="845" source="ScreenScraper.fr">
 		<path>./# TECTOY #/Hang-On (E) [!] [T-BR] [T-X-DooMer G-Emuroms Translations] [A-1998].zip</path>
@@ -2367,19 +2328,6 @@
 		<image>./media/images/SpellCaster (USA, Europe).png</image>
 		<marquee>./media/marquees/SpellCaster (USA, Europe).png</marquee>
 		<video>./media/videos/SpellCaster (USA, Europe).mp4</video>
-	</game>
-	<game id="970" source="ScreenScraper.fr">
-		<path>./Laser Ghost (Europe).zip</path>
-		<name>Laser Ghost (pistola)</name>
-		<desc>Nesse jogo de pistola ambientado em uma mansão mal-assombrada, o jogador deve proteger a pequena Catherine, que teve a alma roubada e agora precisa encarar fantasmas e objetos que voam sozinho para obtê-la de volta. O personagem perde energia sempre que Catherine é atingida, portanto fique atento quando algum fantasma tentar atacá-la. O jogo não chega a ser assustador, mas ainda assim é interessante.</desc>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Laser Ghost (Europe).png</image>
-		<marquee>./media/marquees/Laser Ghost (Europe).png</marquee>
-		<video>./media/videos/Laser Ghost (Europe).mp4</video>
 	</game>
 	<game id="912" source="ScreenScraper.fr">
 		<path>./# TECTOY #/Legend of Illusion Starring Mickey Mouse (Brazil).zip</path>
@@ -3233,19 +3181,6 @@
 		<marquee>./media/marquees/# TECTOY #/Rainbow Islands - The Story of Bubble Bobble 2 (Brazil).png</marquee>
 		<video>./media/videos/# TECTOY #/Rainbow Islands - The Story of Bubble Bobble 2 (Brazil).mp4</video>
 	</game>
-	<game id="815" source="ScreenScraper.fr">
-		<path>./Rambo III (USA, Europe).zip</path>
-		<name>Rambo III (pistola)</name>
-		<desc>Rambo está de volta numa perigosa aventura nas areias do deserto. Sua missão desta vez é ainda mais arriscada: seu amigo, Coronel Trautman, foi capturado pelos inimigos e está preso num esconderijo. Só você poderá trazê-lo de volta. Use a Pistola Light Phaser, agora transformada numa super metralhadora.    A coragem, precisão de tiros e os reflexos apurados farão de você o vencedor! O Coronel Trautman está contando com você...</desc>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Rambo III (USA, Europe).png</image>
-		<marquee>./media/marquees/Rambo III (USA, Europe).png</marquee>
-		<video>./media/videos/Rambo III (USA, Europe).mp4</video>
-	</game>
 	<game id="793" source="ScreenScraper.fr">
 		<path>./Rambo - First Blood Part II (USA).zip</path>
 		<name>Rambo: First Blood Part II</name>
@@ -3336,19 +3271,6 @@
 		<image>./media/images/# TECTOY #/Renegade (E) [!] [T-BR] [T-EmuBoarding G-CBT] [V-1.0 A-1999].png</image>
 		<marquee>./media/marquees/# TECTOY #/Renegade (E) [!] [T-BR] [T-EmuBoarding G-CBT] [V-1.0 A-1999].png</marquee>
 		<video>./media/videos/# TECTOY #/Renegade (E) [!] [T-BR] [T-EmuBoarding G-CBT] [V-1.0 A-1999].mp4</video>
-	</game>
-	<game id="879" source="ScreenScraper.fr">
-		<path>./Rescue Mission (USA, Europe).zip</path>
-		<name>Rescue Mission (pistola)</name>
-		<desc>É tempo de guerra... E seus amigos estão encurralados atrás da linha inimiga! Antes que possam escapar, eles precisam de cuidados médicos. Precisam desesperadamente da sua ajuda! Você é um exímio atirador e está muito bem equipado. A Pistola Light Phaser é sua, e serão necessários reflexos rapidíssimos! Agora, você está indo a uma missão heroica para salvar seus amigos.nnCom apenas um carro de mão, você levará três combatentes médicos ao território inimigo. Sua função: atirar em tudo que o inimigo lançar contra você e seus companheiros! Jatos direcionados, foguetes e granadas, infantaria e minas terrestres!nnÉ você contra todos em uma das mais perigosas batalhas. Se conseguir vencer, ganhará uma medalha. Falhe... e seus amigos serão perseguidos até o fim. O poder da Pistola Light Phaser e a sorte de seus companheiros estão em suas mãos!</desc>
-		<rating>0.65</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Rescue Mission (USA, Europe).png</image>
-		<marquee>./media/marquees/Rescue Mission (USA, Europe).png</marquee>
-		<video>./media/videos/Rescue Mission (USA, Europe).mp4</video>
 	</game>
 	<game id="892" source="ScreenScraper.fr">
 		<path>./Road Rash (Europe).zip</path>
@@ -3824,19 +3746,6 @@
 		<image>./media/images/Sonic The Hedgehog (USA, Europe).png</image>
 		<marquee>./media/marquees/Sonic The Hedgehog (USA, Europe).png</marquee>
 		<video>./media/videos/Sonic The Hedgehog (USA, Europe).mp4</video>
-	</game>
-	<game id="985" source="ScreenScraper.fr">
-		<path>./Space Gun (Europe).zip</path>
-		<name>Space Gun (pistola)</name>
-		<desc>O jogador está investigando uma nave à deriva no espaço quando é atacado por uma raça de horríveis alienígenas. Space Gun é um jogo de tiro com ambientação típica de filmes de ficção científica como Alien. As criaturas são bem desenhadas, a música ajuda a criar um clima e há boas artes tanto na tela de abertura quanto entre as fases. Começando o jogo pelo controle 2 é possível jogar sem a pistola.</desc>
-		<rating>0.75</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Cream</developer>
-		<publisher>Taito</publisher>
-		<players>1</players>
-		<image>./media/images/Space Gun (Europe).png</image>
-		<marquee>./media/marquees/Space Gun (Europe).png</marquee>
-		<video>./media/videos/Space Gun (Europe).mp4</video>
 	</game>
 	<game id="901" source="ScreenScraper.fr">
 		<path>./Space Harrier 3-D (USA, Europe).zip</path>
@@ -4858,19 +4767,6 @@
 		<marquee>./media/marquees/Walter Payton Football (USA).png</marquee>
 		<video>./media/videos/Walter Payton Football (USA).mp4</video>
 	</game>
-	<game id="950" source="ScreenScraper.fr">
-		<path>./Wanted (USA, Europe).zip</path>
-		<name>Wanted (pistola)</name>
-		<desc>Os renegados estão de volta! É hora de você colocar a sua insígnia de xerife, apertar o cinturão com a pistola Ligth Phaser e fazer com que a paz volte a reinar nas pacatas cidadezinha do oeste. Não será nada fácil... pois desta vez os bandidos estão atirando em você!</desc>
-		<rating>0.8</rating>
-		<releasedate>19890801T000000</releasedate>
-		<developer>Sanritsu Denki Co., Ltd.</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Wanted (USA, Europe).png</image>
-		<marquee>./media/marquees/Wanted (USA, Europe).png</marquee>
-		<video>./media/videos/Wanted (USA, Europe).mp4</video>
-	</game>
 	<game id="783" source="ScreenScraper.fr">
 		<path>./# TECTOY #/Where in the World is Carmen Sandiego (Brazil).zip</path>
 		<name>Where in the World is Carmen Sandiego ?</name>
@@ -5294,8 +5190,121 @@
 		<gametime>223</gametime>
 	</game>
 	<game>
+		<path>./Mick _ Mack as the Global Gladiators (Europe).zip</path>
+		<name>Global Gladiators</name>
+		<desc>O quê? Você nunca foi ao McDonald's e não conhece fast-food? Não tem tempo para Big-Macs, refrigerantes, aventura e muita bagunça? Então está na hora de você mudar! De hábitos ou de planeta!!  Uma sugestão: comece pela aventura. Junte-se a Mick e Mack, dois garotos que se divertiam no McDonald's quando, de repente - VUUPT!! - foram sugados para dentro da lixeira e teletransportados para 4 mundos super poluídos! E agora?  No papel dos Global Gladiators, os super-heróis ecológicos dos quadrinhos, eles lutarão durante 12 fases contra os mais fantásticos monstros: manchas de óleo, porcos asquerosos, monstros cuspidores de amendoim mastigado, machados, britadeiras, latas-de-lixo...  Parece legal? Espere até chegar na fase de bônus! Aqui o assunto é sério - reciclagem de lixo - mas mostrado de uma forma super divertida! O que você está esperando? Empunhe seu atirador de grude e limpe a Terra de uma vez por todas! Difícil? E você achava que ia ser fácil ser um super-herói??</desc>
+		<image>./media/images/Mick _ Mack as the Global Gladiators (Europe).png</image>
+		<video>./media/videos/Mick _ Mack as the Global Gladiators (Europe).mp4</video>
+		<marquee>./media/marquees/Mick _ Mack as the Global Gladiators (Europe).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Krisalis Software Ltd.</developer>
+		<publisher>Virgin</publisher>
+		<playcount>2</playcount>
+		<lastplayed>20201130T135641</lastplayed>
+		<gametime>541</gametime>
+	</game>
+	<game>
+		<path>./Gauntlet (Europe).zip</path>
+		<name>Gauntlet</name>
+		<desc>Prepare-se para mergulhar nos subterrâneos escuros e frios das masmorras, um mundo de magia e mistério, povoado pelas criaturas mais estranhas e malignas que você pode imaginar.  Fantasmas, Demônios, Feiticeiras e (acredite se quiser) a própria face da Morte estarão à sua espera. E com um único objetivo: a sua destruição! Todo o cuidado é pouco!  Mas (ainda bem) você não estará sozinho nesta jornada. Há alguns amigos, dispostos a arriscar a vida por você: Thor, o valente guerreiro; Thyra, a valquíria; Merlin, o poderoso mago, e Questor, o duende.  Cada um deles terá ensinamentos valiosos para lhe dar. Em algumas horas, o machado de Thor será a sua salvação, mas em outras, sem magia você não terá a mínima chance! Lute como nunca, e não se esqueça: nessa terra de ninguém, conseguir sobreviver é um prêmio!</desc>
+		<image>./media/images/Gauntlet (Europe).png</image>
+		<video>./media/videos/Gauntlet (Europe).mp4</video>
+		<marquee>./media/marquees/Gauntlet (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19901101T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>US Gold</publisher>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20201130T142657</lastplayed>
+		<gametime>246</gametime>
+	</game>
+	<game id="925" source="ScreenScraper.fr">
+		<path>./Hang-On _ Safari Hunt (USA).zip</path>
+		<name>Light Phaser - Hang-On &amp; Safari Hunt (Use o mouse)</name>
+		<desc>Dois super jogos num só cartucho!  Dirija uma moto super envenenada na corrida ao redor do mundo em Hang-On!  Participe de uma espetacular e perigosa caçada na África em Safari Hunt!</desc>
+		<rating>0.7</rating>
+		<releasedate>19860901T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Hang-On _ Safari Hunt (USA).png</image>
+		<marquee>./media/marquees/Hang-On _ Safari Hunt (USA).png</marquee>
+		<video>./media/videos/Hang-On _ Safari Hunt (USA).mp4</video>
+	</game>
+	<game id="970" source="ScreenScraper.fr">
+		<path>./Laser Ghost (Europe).zip</path>
+		<name>Light Phaser - Laser Ghost (Use o mouse)</name>
+		<desc>Nesse jogo de pistola ambientado em uma mansão mal-assombrada, o jogador deve proteger a pequena Catherine, que teve a alma roubada e agora precisa encarar fantasmas e objetos que voam sozinho para obtê-la de volta. O personagem perde energia sempre que Catherine é atingida, portanto fique atento quando algum fantasma tentar atacá-la. O jogo não chega a ser assustador, mas ainda assim é interessante.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Laser Ghost (Europe).png</image>
+		<marquee>./media/marquees/Laser Ghost (Europe).png</marquee>
+		<video>./media/videos/Laser Ghost (Europe).mp4</video>
+	</game>
+	<game id="879" source="ScreenScraper.fr">
+		<path>./Rescue Mission (USA, Europe).zip</path>
+		<name>Light Phaser - Rescue Mission (Use o mouse)</name>
+		<desc>É tempo de guerra... E seus amigos estão encurralados atrás da linha inimiga! Antes que possam escapar, eles precisam de cuidados médicos. Precisam desesperadamente da sua ajuda! Você é um exímio atirador e está muito bem equipado. A Pistola Light Phaser é sua, e serão necessários reflexos rapidíssimos! Agora, você está indo a uma missão heroica para salvar seus amigos.nnCom apenas um carro de mão, você levará três combatentes médicos ao território inimigo. Sua função: atirar em tudo que o inimigo lançar contra você e seus companheiros! Jatos direcionados, foguetes e granadas, infantaria e minas terrestres!nnÉ você contra todos em uma das mais perigosas batalhas. Se conseguir vencer, ganhará uma medalha. Falhe... e seus amigos serão perseguidos até o fim. O poder da Pistola Light Phaser e a sorte de seus companheiros estão em suas mãos!</desc>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Rescue Mission (USA, Europe).png</image>
+		<marquee>./media/marquees/Rescue Mission (USA, Europe).png</marquee>
+		<video>./media/videos/Rescue Mission (USA, Europe).mp4</video>
+	</game>
+	<game id="950" source="ScreenScraper.fr">
+		<path>./Wanted (USA, Europe).zip</path>
+		<name>Light Phaser - Wanted (Use o mouse)</name>
+		<desc>Os renegados estão de volta! É hora de você colocar a sua insígnia de xerife, apertar o cinturão com a pistola Ligth Phaser e fazer com que a paz volte a reinar nas pacatas cidadezinha do oeste. Não será nada fácil... pois desta vez os bandidos estão atirando em você!</desc>
+		<rating>0.8</rating>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Sanritsu Denki Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Wanted (USA, Europe).png</image>
+		<marquee>./media/marquees/Wanted (USA, Europe).png</marquee>
+		<video>./media/videos/Wanted (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Rambo III (USA, Europe).zip</path>
+		<name>Light Phaser - Rambo III (Use o mouse)</name>
+		<desc>Rambo está de volta numa perigosa aventura nas areias do deserto. Sua missão desta vez é ainda mais arriscada: seu amigo, Coronel Trautman, foi capturado pelos inimigos e está preso num esconderijo. Só você poderá trazê-lo de volta. Use a Pistola Light Phaser, agora transformada numa super metralhadora.    A coragem, precisão de tiros e os reflexos apurados farão de você o vencedor! O Coronel Trautman está contando com você...</desc>
+		<image>./media/images/Rambo III (USA, Europe).png</image>
+		<video>./media/videos/Rambo III (USA, Europe).mp4</video>
+		<marquee>./media/marquees/Rambo III (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<playcount>2</playcount>
+		<lastplayed>20201130T073542</lastplayed>
+		<gametime>162</gametime>
+	</game>
+	<game>
+		<path>./Space Gun (Europe).zip</path>
+		<name>Light Phaser - Space Gun (Use o mouse)</name>
+		<desc>O jogador está investigando uma nave à deriva no espaço quando é atacado por uma raça de horríveis alienígenas. Space Gun é um jogo de tiro com ambientação típica de filmes de ficção científica como Alien. As criaturas são bem desenhadas, a música ajuda a criar um clima e há boas artes tanto na tela de abertura quanto entre as fases. Começando o jogo pelo controle 2 é possível jogar sem a pistola.</desc>
+		<image>./media/images/Space Gun (Europe).png</image>
+		<video>./media/videos/Space Gun (Europe).mp4</video>
+		<marquee>./media/marquees/Space Gun (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Cream</developer>
+		<publisher>Taito</publisher>
+		<playcount>2</playcount>
+		<lastplayed>20201130T074744</lastplayed>
+		<gametime>368</gametime>
+	</game>
+	<game>
 		<path>./Gangster Town (USA, Europe).zip</path>
-		<name>Gangster Town (pistola)</name>
+		<name>Light Phaser - Gangster Town (Use o mouse)</name>
 		<desc>Durante os anos 20, você é um agente especial do FBI, perseguindo uma gang de contrabandistas.  Após praticar sua pontaria, você ficará frente a frente com os bandidos nas mais diversas situações, tais como: perseguições de carro, no centro da cidade, no salão do bar, no cabaret e finalmente nas docas do porto.  Utilize a Pistola Light Phaser para jogar Gangster Town® e acabar com o poderoso chefe. Mas, lembre-se: eles são muitos e maus.</desc>
 		<image>./media/images/Gangster Town (USA, Europe).png</image>
 		<video>./media/videos/Gangster Town (USA, Europe).mp4</video>
@@ -5305,8 +5314,8 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<players>2</players>
-		<playcount>8</playcount>
-		<lastplayed>20201127T101559</lastplayed>
-		<gametime>4326</gametime>
+		<playcount>23</playcount>
+		<lastplayed>20201130T154433</lastplayed>
+		<gametime>8086</gametime>
 	</game>
 </gameList>
