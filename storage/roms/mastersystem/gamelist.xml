@@ -434,19 +434,6 @@
 		<marquee>./media/marquees/# TECTOY #/TV Colosso (Brazil).png</marquee>
 		<video>./media/videos/# TECTOY #/TV Colosso (Brazil).mp4</video>
 	</game>
-	<game id="895" source="ScreenScraper.fr">
-		<path>./Assault City (Europe).zip</path>
-		<name>Assault City</name>
-		<desc>Os robôs estão atacando! O ferro velho onde nosso herói Joe está de guarda acaba de transformar-se num campo de batalha. Mas Joe está desarmado, e a única coisa que pode fazer é abrigar-se e aguardar o fim de tudo. De repente ele ouve um ruído. Um homem ferido atrás de uma pilha de ferragens entrega-lhe um objeto metálico, antes de ser atingido em cheio por um robô. É quando Joe descobre que tem em suas mãos um desintegrador de robôs, a última esperança para salvar a cidade. Atire neles e transforme-os em montes de sucata, mas seja rápido, pois eles estão programados para não errar!</desc>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sanritsu Denki Co., Ltd.</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Assault City (Europe).png</image>
-		<marquee>./media/marquees/Assault City (Europe).png</marquee>
-		<video>./media/videos/Assault City (Europe).mp4</video>
-	</game>
 	<game id="795" source="ScreenScraper.fr">
 		<path>./Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).zip</path>
 		<name>Astérix and the Great Rescue</name>
@@ -2433,32 +2420,6 @@
 		<marquee>./media/marquees/Marble Madness (Europe).png</marquee>
 		<video>./media/videos/Marble Madness (Europe).mp4</video>
 	</game>
-	<game id="64924" source="ScreenScraper.fr">
-		<path>./Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).zip</path>
-		<name>Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt</name>
-		<desc>Coletânea composta por três jogos para uso da pistola Light Phaser, sendo que dois já haviam sido lançados em um mesmo cartucho. Marksman Shooting se passa em uma galeria de tiro do FBI, no qual o jogador dispara contra cartazes de humanos; Trap Shooting, o objetivo é atirar em pratos lançados por máquinas em cenários variados. Nada de emocionante: é puramente tiro ao alvo; Safari Hunt é um jogo de caça onde é preciso atirar em todos os animais com uma quantidade limitada de munição. É preciso atirar nos vários animais do jogo para adquirir pontos suficientes para avançar para a próxima rodada.</desc>
-		<rating>0.55</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1-2</players>
-		<image>./media/images/Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).png</image>
-		<marquee>./media/marquees/Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).png</marquee>
-		<video>./media/videos/Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).mp4</video>
-	</game>
-	<game id="64905" source="ScreenScraper.fr">
-		<path>./Marksman Shooting _ Trap Shooting (USA).zip</path>
-		<name>Marksman Shooting &amp; Trap Shooting</name>
-		<desc>Dois grandes jogos em um só. Será necessário o uso da Pistola Light Phaser.  Marksman Shooting: Você está em treinamento junto com os melhores agentes do FBI. Quando o relógio começar a marcar o tempo, os alvos aparecerão e você deve atirar imediatamente. Não há tempo para pensar, e é tarde demais para desistir. Se você for bom o suficiente, passará para as fases mais difíceis, onde precisará de nervos de aço.  Trap Shooting: Você tem olhos de lince e reflexos apuradíssimos? Se tiver, prepare-se para este emocionante jogo de tiro ao alvo.  Somente pulso firme e tiro certo farão você passar para a próxima fase.</desc>
-		<rating>0.75</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1-2</players>
-		<image>./media/images/Marksman Shooting _ Trap Shooting (USA).png</image>
-		<marquee>./media/marquees/Marksman Shooting _ Trap Shooting (USA).png</marquee>
-		<video>./media/videos/Marksman Shooting _ Trap Shooting (USA).mp4</video>
-	</game>
 	<game id="809" source="ScreenScraper.fr">
 		<path>./# TECTOY #/Master of Darkness (UE) [!] [T-BR] [T-Kratos-AM G-Nenhum] [V-1.1 A-2011].zip</path>
 		<name>Master of Darkness</name>
@@ -2575,19 +2536,6 @@
 		<image>./media/images/Miracle Warriors - Seal of the Dark Lord (USA, Europe).png</image>
 		<marquee>./media/marquees/Miracle Warriors - Seal of the Dark Lord (USA, Europe).png</marquee>
 		<video>./media/videos/Miracle Warriors - Seal of the Dark Lord (USA, Europe).mp4</video>
-	</game>
-	<game id="18505" source="ScreenScraper.fr">
-		<path>./Missile Defense 3-D (USA, Europe).zip</path>
-		<name>Missile Defense 3-D</name>
-		<desc>É o dia da guerra nuclear, mas, você tem a Pistola Light Phaser e os Óculos 3D e sua missão será impedir a destruição do mundo.  Neste jogo, de hiper realismo, vários mísseis serão lançados de bases e silos diferentes. Com uma boa pontaria você deverá interceptá-los antes que eles atinjam o alvo, salvando, assim, as cidades da Terra.  Missile Defense: Um jogo, mas é bom que você esteja preparado.</desc>
-		<rating>0.6</rating>
-		<releasedate>19870801T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Missile Defense 3-D (USA, Europe).png</image>
-		<marquee>./media/marquees/Missile Defense 3-D (USA, Europe).png</marquee>
-		<video>./media/videos/Missile Defense 3-D (USA, Europe).mp4</video>
 	</game>
 	<game id="18506" source="ScreenScraper.fr">
 		<path>./# TECTOY #/Monica no Castelo do Dragao (Brazil).zip</path>
@@ -2755,19 +2703,6 @@
 		<image>./media/images/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png</image>
 		<marquee>./media/marquees/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png</marquee>
 		<video>./media/videos/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
-	</game>
-	<game id="930" source="ScreenScraper.fr">
-		<path>./Operation Wolf (Europe).zip</path>
-		<name>Operation Wolf</name>
-		<desc>Depois de um golpe de estado em Cherigo, os antigos governantes foram mandados pelo ditador para um campo de concentração, e estão sendo mantidos como reféns.  Esta é a situação atual, e cabe a você a missão de restaurar a ordem, salvando os reféns e colocando-os no poder novamente.    Pegue sua Pistola Light Phaser e mostre que você é capaz! Não dê trégua aos inimigos, o destino do país está em suas mãos.</desc>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Operation Wolf (Europe).png</image>
-		<marquee>./media/marquees/Operation Wolf (Europe).png</marquee>
-		<video>./media/videos/Operation Wolf (Europe).mp4</video>
 	</game>
 	<game id="1004" source="ScreenScraper.fr">
 		<path>./Out Run 3-D (Europe).zip</path>
@@ -3607,19 +3542,6 @@
 		<image>./media/images/Shinobi (USA, Europe).png</image>
 		<marquee>./media/marquees/Shinobi (USA, Europe).png</marquee>
 		<video>./media/videos/Shinobi (USA, Europe).mp4</video>
-	</game>
-	<game id="18524" source="ScreenScraper.fr">
-		<path>./Shooting Gallery (USA, Europe).zip</path>
-		<name>Shooting Gallery</name>
-		<desc>Se você está pensando que este é apenas mais um jogo de tiro, está enganado.  Nenhum outro jogo requer tanta precisão e tanto reflexo. Mas, você tem tudo que necessita: olhos apurados, mão firme e, é claro, a Pistola Light Phaser para bater os recordes.    Acertar o alvo, ficará a cada fase mais difícil, mas não se dê por vencido pois o jogo é muito emocionante.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870301T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<image>./media/images/Shooting Gallery (USA, Europe).png</image>
-		<marquee>./media/marquees/Shooting Gallery (USA, Europe).png</marquee>
-		<video>./media/videos/Shooting Gallery (USA, Europe).mp4</video>
 	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./# TECTOY #/Show do Milhao (BR).zip</path>
@@ -5314,8 +5236,86 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<players>2</players>
-		<playcount>23</playcount>
-		<lastplayed>20201130T154433</lastplayed>
-		<gametime>8086</gametime>
+		<playcount>26</playcount>
+		<lastplayed>20201201T063653</lastplayed>
+		<gametime>8345</gametime>
+	</game>
+	<game id="64924" source="ScreenScraper.fr">
+		<path>./Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).zip</path>
+		<name>Light Phaser - Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt (Use o mouse)</name>
+		<desc>Coletânea composta por três jogos para uso da pistola Light Phaser, sendo que dois já haviam sido lançados em um mesmo cartucho. Marksman Shooting se passa em uma galeria de tiro do FBI, no qual o jogador dispara contra cartazes de humanos; Trap Shooting, o objetivo é atirar em pratos lançados por máquinas em cenários variados. Nada de emocionante: é puramente tiro ao alvo; Safari Hunt é um jogo de caça onde é preciso atirar em todos os animais com uma quantidade limitada de munição. É preciso atirar nos vários animais do jogo para adquirir pontos suficientes para avançar para a próxima rodada.</desc>
+		<rating>0.55</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<image>./media/images/Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).png</image>
+		<marquee>./media/marquees/Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).png</marquee>
+		<video>./media/videos/Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe).mp4</video>
+	</game>
+	<game id="64905" source="ScreenScraper.fr">
+		<path>./Marksman Shooting _ Trap Shooting (USA).zip</path>
+		<name>Light Phaser - Marksman Shooting &amp; Trap Shooting (Use o mouse)</name>
+		<desc>Dois grandes jogos em um só. Será necessário o uso da Pistola Light Phaser.  Marksman Shooting: Você está em treinamento junto com os melhores agentes do FBI. Quando o relógio começar a marcar o tempo, os alvos aparecerão e você deve atirar imediatamente. Não há tempo para pensar, e é tarde demais para desistir. Se você for bom o suficiente, passará para as fases mais difíceis, onde precisará de nervos de aço.  Trap Shooting: Você tem olhos de lince e reflexos apuradíssimos? Se tiver, prepare-se para este emocionante jogo de tiro ao alvo.  Somente pulso firme e tiro certo farão você passar para a próxima fase.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<image>./media/images/Marksman Shooting _ Trap Shooting (USA).png</image>
+		<marquee>./media/marquees/Marksman Shooting _ Trap Shooting (USA).png</marquee>
+		<video>./media/videos/Marksman Shooting _ Trap Shooting (USA).mp4</video>
+	</game>
+	<game id="18505" source="ScreenScraper.fr">
+		<path>./Missile Defense 3-D (USA, Europe).zip</path>
+		<name>Light Phaser - Missile Defense 3-D (Use o mouse)</name>
+		<desc>É o dia da guerra nuclear, mas, você tem a Pistola Light Phaser e os Óculos 3D e sua missão será impedir a destruição do mundo.  Neste jogo, de hiper realismo, vários mísseis serão lançados de bases e silos diferentes. Com uma boa pontaria você deverá interceptá-los antes que eles atinjam o alvo, salvando, assim, as cidades da Terra.  Missile Defense: Um jogo, mas é bom que você esteja preparado.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870801T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Missile Defense 3-D (USA, Europe).png</image>
+		<marquee>./media/marquees/Missile Defense 3-D (USA, Europe).png</marquee>
+		<video>./media/videos/Missile Defense 3-D (USA, Europe).mp4</video>
+	</game>
+	<game id="930" source="ScreenScraper.fr">
+		<path>./Operation Wolf (Europe).zip</path>
+		<name>Light Phaser - Operation Wolf (Use o mouse)</name>
+		<desc>Depois de um golpe de estado em Cherigo, os antigos governantes foram mandados pelo ditador para um campo de concentração, e estão sendo mantidos como reféns.  Esta é a situação atual, e cabe a você a missão de restaurar a ordem, salvando os reféns e colocando-os no poder novamente.    Pegue sua Pistola Light Phaser e mostre que você é capaz! Não dê trégua aos inimigos, o destino do país está em suas mãos.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Operation Wolf (Europe).png</image>
+		<marquee>./media/marquees/Operation Wolf (Europe).png</marquee>
+		<video>./media/videos/Operation Wolf (Europe).mp4</video>
+	</game>
+	<game id="18524" source="ScreenScraper.fr">
+		<path>./Shooting Gallery (USA, Europe).zip</path>
+		<name>Light Phaser - Shooting Gallery (Use o mouse)</name>
+		<desc>Se você está pensando que este é apenas mais um jogo de tiro, está enganado.  Nenhum outro jogo requer tanta precisão e tanto reflexo. Mas, você tem tudo que necessita: olhos apurados, mão firme e, é claro, a Pistola Light Phaser para bater os recordes.    Acertar o alvo, ficará a cada fase mais difícil, mas não se dê por vencido pois o jogo é muito emocionante.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870301T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Shooting Gallery (USA, Europe).png</image>
+		<marquee>./media/marquees/Shooting Gallery (USA, Europe).png</marquee>
+		<video>./media/videos/Shooting Gallery (USA, Europe).mp4</video>
+	</game>
+	<game id="895" source="ScreenScraper.fr">
+		<path>./Assault City (Europe).zip</path>
+		<name>Light Phaser - Assault City (Use o mouse)</name>
+		<desc>Os robôs estão atacando! O ferro velho onde nosso herói Joe está de guarda acaba de transformar-se num campo de batalha. Mas Joe está desarmado, e a única coisa que pode fazer é abrigar-se e aguardar o fim de tudo. De repente ele ouve um ruído. Um homem ferido atrás de uma pilha de ferragens entrega-lhe um objeto metálico, antes de ser atingido em cheio por um robô. É quando Joe descobre que tem em suas mãos um desintegrador de robôs, a última esperança para salvar a cidade. Atire neles e transforme-os em montes de sucata, mas seja rápido, pois eles estão programados para não errar!</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sanritsu Denki Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<image>./media/images/Assault City (Europe).png</image>
+		<marquee>./media/marquees/Assault City (Europe).png</marquee>
+		<video>./media/videos/Assault City (Europe).mp4</video>
 	</game>
 </gameList>
