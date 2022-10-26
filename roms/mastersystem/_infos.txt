@@ -1,0 +1,1 @@
+extension suport= .bin .BIN .sms .wad .WAD .SMS .zip .ZIP .7z .7Z
