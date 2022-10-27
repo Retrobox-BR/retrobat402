@@ -1,0 +1,6 @@
+System name: MAME
+Full system name: Multiple Arcade Machine Emulator
+Supported file extensions: .7z .7Z .zip .ZIP
+Platform (for scraping): arcade
+Theme folder: mame
+
