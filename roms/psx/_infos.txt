@@ -1,0 +1,5 @@
+System name: psx
+Full system name: Sony PlayStation
+Supported file extensions: .ccd .CCD .chd .CHD .cue .CUE .img .IMG .iso .ISO .m3u .M3U .mds .MDS .pbp .PBP
+Platform (for scraping): psx
+Theme folder: psx
