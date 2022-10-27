@@ -1,1 +1,5 @@
-extension suport= .bin .BIN .sms .wad .WAD .SMS .zip .ZIP .7z .7Z
+System name: mastersystem
+Full system name: Sega Master System
+Supported file extensions: .mdx .md .smd .gen .bin .cue .iso .sms .gg .sg .68k .chd
+Platform (for scraping): mastersystem
+Theme folder: mastersystem
